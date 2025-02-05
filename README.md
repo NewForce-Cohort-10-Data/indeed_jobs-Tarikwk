@@ -33,3 +33,4 @@ You want to understand which jobs requiring SQL are hard to fill. Find the numbe
  - Disregard any postings where the domain is NULL. 
  - Order your results so that the domain with the greatest number of `hard to fill` jobs is at the top. 
   - Which three industries are in the top 4 on this list? How many jobs have been listed for more than 3 weeks for each of the top 4?
+# prescriptions
